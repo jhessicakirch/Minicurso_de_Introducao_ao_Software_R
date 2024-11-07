@@ -1,10 +1,10 @@
 # Minicurso de Introdução ao Software R 
 
-Este curso foi ministrado por Jhessica Leticia Kirch em Lucas do Rio Verde, Mato Grosso, em 2016.
+Este curso foi ministrado por Jhessica Leticia Kirch na I Semana Tecnológica do IFMT em Lucas do Rio Verde, Mato Grosso, em 2016.
 
 ## Objetivo
 
-Apresentar uma introdução ao software R para alunos do Instituto Federal de Mato Grosso - IFMT.
+Apresentar uma introdução ao software R para alunos do IFMT.
 
 ## Conteúdo
 
