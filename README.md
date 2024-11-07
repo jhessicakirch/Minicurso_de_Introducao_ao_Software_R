@@ -1,6 +1,6 @@
 # Minicurso de Introdução ao Software R 
 
-Este curso foi ministrado por Jhessica Leticia Kirch na I Semana Tecnológica do IFMT em Lucas do Rio Verde, Mato Grosso, em 2016.
+Este curso foi ministrado em 2016 por Jhessica Leticia Kirch na I Semana Tecnológica do IFMT em Lucas do Rio Verde - MT e no ciclo de palestras do Centro Acadêmico de Estatística UFMT em Cuiabá - MT.
 
 ## Objetivo
 
@@ -52,10 +52,10 @@ Apresentar uma introdução ao software R para alunos do IFMT.
 
 🔶 Análise de Experimentos	
 
-🔸  Delineamento Inteiramente Casualizado	
+🔸  Delineamento Inteiramente Casualizado
 
 🔸  Delineamento em Blocos Casualizado	
 
 🔸  Delineamento em Quadrado Latino	
 
-
+🔶 Distribuições amostrais
